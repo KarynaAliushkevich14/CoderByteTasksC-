@@ -1,0 +1,15 @@
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\bin\Debug\net6.0\CodelandUsernameValidationTask.exe
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\bin\Debug\net6.0\CodelandUsernameValidationTask.deps.json
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\bin\Debug\net6.0\CodelandUsernameValidationTask.runtimeconfig.json
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\bin\Debug\net6.0\CodelandUsernameValidationTask.dll
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\bin\Debug\net6.0\CodelandUsernameValidationTask.pdb
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\obj\Debug\net6.0\CodelandUsernameValidationTask.csproj.AssemblyReference.cache
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\obj\Debug\net6.0\CodelandUsernameValidationTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\obj\Debug\net6.0\CodelandUsernameValidationTask.AssemblyInfoInputs.cache
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\obj\Debug\net6.0\CodelandUsernameValidationTask.AssemblyInfo.cs
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\obj\Debug\net6.0\CodelandUsernameValidationTask.csproj.CoreCompileInputs.cache
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\obj\Debug\net6.0\CodelandUsernameValidationTask.dll
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\obj\Debug\net6.0\refint\CodelandUsernameValidationTask.dll
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\obj\Debug\net6.0\CodelandUsernameValidationTask.pdb
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\obj\Debug\net6.0\CodelandUsernameValidationTask.genruntimeconfig.cache
+C:\Users\karina\Desktop\Programming\Rekrutacja\CoderbyteC#\CodelandUsernameValidationTask\CodelandUsernameValidationTask\obj\Debug\net6.0\ref\CodelandUsernameValidationTask.dll
