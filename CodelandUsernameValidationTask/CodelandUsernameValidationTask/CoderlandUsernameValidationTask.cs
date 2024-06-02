@@ -8,24 +8,33 @@ class CodelandUsernameValidationTask {
     public static bool CodelandUsernameValidation(string str)
     {
 
-        // code goes here 
-        return str.Length >= 4 && str.Length <= 25;
+        // code goes here
+        int strLength = str.Length;
+        bool isLastLetterNotUnderscore = str[strLength - 1] != '_';
+
+        return strLength >= 4 && strLength <= 25 && char.IsLetter(str[0]) && isLastLetterNotUnderscore
+          && IsStringContainsOnlyRequiredSymbols(str);
 
     }
 
-    public static char test()
+    public static bool IsStringContainsOnlyRequiredSymbols(string str)
     {
-        String str = "Hello World";
-        return str[0];
+        for (int i = 0; i < str.Length; i++)
+        {
+            char ch = str[i];
+            if (!char.IsLetterOrDigit(ch) && ch != '_')
+            {
+                return false;
+            }
+        }
+        return true;
     }
+
 
     static void Main()
     {
-
         // keep this function call here
         Console.WriteLine(CodelandUsernameValidation(Console.ReadLine()));
-
-        Console.WriteLine(test());
     }
 }
     
